@@ -73,3 +73,57 @@ The maximum speed-up factor seems to be around 3 (for 10 threads).
 
 For 100x100 matrices we never get faster performance with 5, 10 or 20 threads.
 Hence, perhaps 500x500 matrices and more gives a speed-up.
+
+* When we increase the problem size, non-synchronize check pointing is only
+better than global barrier when the number of threads matches the problem size.
+In the below measurements, when the problem size is larger than ~1001x1001,
+more number of threads is required in order for non-synchronize check pointing
+to be better than global barrier, i.e., 16 threads are not enough wrt the
+problem size.
+
+        32 threads, Problem size: 256 x 256
+
+        Global barrier: 0.536643 sek
+        Non-synchronize check pointing: 0.247219 sek
+
+        16 threads, Problem size: 256 x 256
+
+        Global barrier: 0.759400 sek
+        Non-synchronize check pointing: 0.413608 sek
+
+        ----------------------------------------------
+
+        32 threads, Problem size: 501 x 501
+
+        Global barrier: 2.900717 sek
+        Non-synchronize check pointing: 1.581953 sek
+
+        16 threads, Problem size: 501 x 501
+
+        Global barrier: 3.535042 sek
+        Non-synchronize check pointing (501 501): 2.164934 sek
+
+        ----------------------------------------------
+
+        32 threads, Problem size: 1001 x 1001
+
+        Global barrier: 18.386948 sek
+        Non-synchronize check pointing: 12.324078 sek
+
+        16 threads, Problem size: 1001 x 1001
+
+        Global barrier: 21.372936 sek
+        Non-synchronize check pointing: 20.464841 sek
+
+        ----------------------------------------------
+
+        32 threads, Problem size: 1501 x 1501
+
+        Global barrier: 42.394640 sek
+        Non-synchronize check pointing: 41.047683 sek
+
+        16 threads, Problem size: 1501 x 1501
+
+        Global barrier: 59.834858 sek
+        Non-synchronize check pointing: 75.415063 sek
+
