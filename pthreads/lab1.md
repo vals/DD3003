@@ -1,4 +1,5 @@
 # Report from Pthreads lab
+### Mikael Åsberg & Valentine Svensson
 
 #### 1.
 We added argument `(void *)t` to `pthread_create`, then in `*HelloWorld` we
@@ -127,3 +128,5 @@ problem size.
         Global barrier: 59.834858 sek
         Non-synchronize check pointing: 75.415063 sek
 
+* Plot for speedups of various problem sizes.
+![An image](speedup.pdf)

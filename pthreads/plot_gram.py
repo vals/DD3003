@@ -37,12 +37,15 @@ for i, t1 in enumerate((float(s[-1])) for s in data2[0]):
         speedups.append(float(core[i][-1]) / t1)
         cores.append(int(core[i][1]))
 
-    if i in [7, 9, 12, 14, 16]:
+    if i in [4, 7, 9, 12, 14, 16]:
         ax.plot(range(1, len(cores) + 1), speedups, 'o-', label=data2[0][i][2])
 
-plt.legend(loc=2)
+plt.legend(loc=2, title="Problem size")
 
 plt.xlabel("Number of cores")
 plt.ylabel("Speedup")
-plt.xticks([1, 2, 3, 4], [4, 8, 16, 32])
-plt.show()
+plt.title("Speeup for n cores is T_n / T_1")
+plt.xticks([0, 1, 2, 3, 4, 5, 6], ["", 2, 4, 8, 16, 32, ""])
+plt.grid(True)
+# plt.show()
+plt.savefig("speedup.pdf")
