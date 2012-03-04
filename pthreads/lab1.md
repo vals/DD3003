@@ -129,4 +129,4 @@ problem size.
         Non-synchronize check pointing: 75.415063 sek
 
 * Plot for speedups of various problem sizes.
-![An image](speedup.pdf)
+![An image](speedup_new.pdf)
