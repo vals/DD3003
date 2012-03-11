@@ -1,0 +1,1379 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lo",
+				"log_list	(attribute, instance)"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"s",
+				"stroke-opacity"
+			],
+			[
+				"re",
+				"rect"
+			],
+			[
+				"log",
+				"log4"
+			],
+			[
+				"a",
+				"attr"
+			],
+			[
+				"b",
+				"bar"
+			],
+			[
+				"se",
+				"selectAll"
+			],
+			[
+				"exc",
+				"exchange_name	(global, instance)"
+			],
+			[
+				"que",
+				"queue_name	(global, instance)"
+			],
+			[
+				"queue",
+				"queue"
+			],
+			[
+				"exch",
+				"exchange_name"
+			],
+			[
+				"data",
+				"data_list	(local, instance)"
+			],
+			[
+				"list",
+				"list_to_dict	(global, function)"
+			],
+			[
+				"grou",
+				"grouped_data	(local, instance)"
+			],
+			[
+				"str",
+				"strftime"
+			],
+			[
+				"machi",
+				"machine"
+			],
+			[
+				"true",
+				"true"
+			],
+			[
+				"pdb",
+				"pdb	Insert PDB breakpoint"
+			],
+			[
+				"screen_sa",
+				"screen_sample_contaminants"
+			],
+			[
+				"m",
+				"map_wrap"
+			],
+			[
+				"ut",
+				"utils"
+			],
+			[
+				"sc",
+				"screen_for_contamination  (function)"
+			],
+			[
+				"sam",
+				"sample"
+			],
+			[
+				"tas",
+				"task"
+			],
+			[
+				"args",
+				"args"
+			],
+			[
+				"sa",
+				"sample"
+			],
+			[
+				"def",
+				"def	Function"
+			],
+			[
+				"pip",
+				"pipeline  (module)"
+			],
+			[
+				"bcb",
+				"bcbio"
+			],
+			[
+				"logger",
+				"logger"
+			],
+			[
+				"l",
+				"log  (module)"
+			],
+			[
+				"bc",
+				"bcbio"
+			],
+			[
+				"e",
+				"exists  (function)"
+			],
+			[
+				"pa",
+				"path  (module)"
+			],
+			[
+				"rem",
+				"remove  (function)"
+			],
+			[
+				"ma",
+				"matched  (variable)"
+			],
+			[
+				"it",
+				"itervalues  (function)"
+			],
+			[
+				"ap",
+				"append  (function)"
+			],
+			[
+				"path",
+				"path  (module)"
+			],
+			[
+				"cop",
+				"copyfileobj  (function)"
+			],
+			[
+				"ke",
+				"KeyboardInterrupt  (class)"
+			],
+			[
+				"remo",
+				"remove  (function)"
+			],
+			[
+				"clo",
+				"close  (function)"
+			],
+			[
+				"shu",
+				"shutil  (module)"
+			],
+			[
+				"get",
+				"getsize  (function)"
+			],
+			[
+				"os",
+				"os  (module)"
+			],
+			[
+				"iter",
+				"iteritems  (function)"
+			],
+			[
+				"fu",
+				"__future__  (module)"
+			],
+			[
+				"futu",
+				"future_builtins  (module)"
+			],
+			[
+				"figu",
+				"figure  (function)"
+			],
+			[
+				"rc",
+				"rc  (function)"
+			],
+			[
+				"mat",
+				"matplotlib  (module)"
+			],
+			[
+				"xt",
+				"xticks  (function)"
+			],
+			[
+				"val",
+				"values  (function)"
+			],
+			[
+				"w",
+				"with_statement  (variable)"
+			],
+			[
+				"__",
+				"__future__  (module)"
+			],
+			[
+				"v",
+				"values  (function)"
+			],
+			[
+				"ran",
+				"random  (function)"
+			],
+			[
+				"cl",
+				"close  (function)"
+			],
+			[
+				"wr",
+				"write  (function)"
+			],
+			[
+				"sy",
+				"sys  (module)"
+			],
+			[
+				"p",
+				"parse_args  (function)"
+			],
+			[
+				"__name",
+				"__name__ == '__main__':  (variable)"
+			],
+			[
+				"ad",
+				"add  (function)"
+			],
+			[
+				"r",
+				"run  (function)"
+			],
+			[
+				"cPro",
+				"cProfile  (module)"
+			],
+			[
+				"cpr",
+				"cProfile  (module)"
+			],
+			[
+				"__init",
+				"__init__(self  (function)"
+			],
+			[
+				"iteri",
+				"iteritems  (function)"
+			],
+			[
+				"colle",
+				"collections  (module)"
+			],
+			[
+				"coll",
+				"collections  (module)"
+			],
+			[
+				"joi",
+				"join  (function)"
+			],
+			[
+				"item",
+				"itemgetter  (class)"
+			],
+			[
+				"oprt",
+				"operator  (module)"
+			],
+			[
+				"pl",
+				"plot  (function)"
+			],
+			[
+				"pyp",
+				"pyplot  (module)"
+			],
+			[
+				"matpl",
+				"matplotlib  (module)"
+			],
+			[
+				"jo",
+				"join  (function)"
+			],
+			[
+				"csv",
+				"__class__  (variable)"
+			],
+			[
+				"i",
+				"itervalues  (function)"
+			],
+			[
+				"ite",
+				"items  (function)"
+			],
+			[
+				"oper",
+				"operator  (module)"
+			],
+			[
+				"vale",
+				"values  (function)"
+			],
+			[
+				"cod",
+				"code  (module)"
+			],
+			[
+				"sys",
+				"sys  (module)"
+			],
+			[
+				"tr",
+				"traceback  (module)"
+			],
+			[
+				"append",
+				"append  (function)"
+			],
+			[
+				"add",
+				"add_option  (function)"
+			],
+			[
+				"exi",
+				"exit  (function)"
+			],
+			[
+				"Op",
+				"OptionParser  (class)"
+			],
+			[
+				"opt",
+				"optparse  (module)"
+			],
+			[
+				"so",
+				"solexa  (module)"
+			],
+			[
+				"arg",
+				"argv  (variable)"
+			],
+			[
+				"argv",
+				"argv  (variable)"
+			],
+			[
+				"me",
+				"messaging  (module)"
+			],
+			[
+				"d",
+				"distributed  (module)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/valentinesvensson/Downloads/mikael.asberg@mdh.se - SV: Labrapport - parallel programming (work in progress) 2/waveSim.txt",
+			"settings":
+			{
+				"buffer_size": 1465,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/valentinesvensson/Documents/parallel programming/assignment1/assignment1.md",
+			"settings":
+			{
+				"buffer_size": 523,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mypi.c",
+			"settings":
+			{
+				"buffer_size": 2224,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 72.0,
+		"selected_items":
+		[
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"bl",
+				"Git: Blame"
+			],
+			[
+				"blam",
+				"Git: Blame"
+			],
+			[
+				"lint",
+				"SublimeLinter: Extract Annotations"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"git ",
+				"Git: Blame"
+			],
+			[
+				"git",
+				"Git: Log All"
+			],
+			[
+				"lintint",
+				"SublimeLinter: Disable Background Linting"
+			],
+			[
+				"linter",
+				"SublimeLinter: Enable Background Linting"
+			],
+			[
+				"liner",
+				"SublimeLinter: Disable Background Linting"
+			],
+			[
+				"clone",
+				"File: Clone"
+			],
+			[
+				":0",
+				":0 - BOF"
+			],
+			[
+				"bla",
+				"Git: Blame"
+			],
+			[
+				"map",
+				"View: Toggle Minimap"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"ma",
+				"View: Toggle Minimap"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"b",
+				"Git: Blame"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 136.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/valentinesvensson/Documents/parallel programming/pthreads/lab1.md",
+		"/Users/valentinesvensson/Documents/parallel programming/pthreads/gram.txt",
+		"/Users/valentinesvensson/Documents/parallel programming/pthreads/plot_gram.py",
+		"/Users/valentinesvensson/Downloads/mikael.asberg@mdh.se - SV: Labrapport - parallel programming (work in progress) 2/gram.txt",
+		"/Users/valentinesvensson/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/valentinesvensson/Documents/logstash/size_bars.html",
+		"/Users/valentinesvensson/Documents/webbing/t_server.py",
+		"/Users/valentinesvensson/Documents/logstash/d3/examples/bar/bar.html",
+		"/Users/valentinesvensson/Documents/logstash/d3/examples/bar/bar-hierarchy.html",
+		"/Users/valentinesvensson/Documents/logstash/tornado_log.html",
+		"/Users/valentinesvensson/Documents/logstash/recieve.py",
+		"/Users/valentinesvensson/Documents/logstash/send.py",
+		"/Users/valentinesvensson/Documents/logstash/ws.html",
+		"/Users/valentinesvensson/Downloads/graylog2-web-interface-0.9.6/config/newrelic.yml",
+		"/Users/valentinesvensson/Downloads/graylog2-web-interface-0.9.6/config/indexer.yml",
+		"/Users/valentinesvensson/Downloads/graylog2-web-interface-0.9.6/config/general.yml",
+		"/Users/valentinesvensson/Downloads/graylog2-web-interface-0.9.6/config/email.yml",
+		"/etc/graylog2.conf",
+		"/Users/valentinesvensson/Documents/logstash/tornado_log_app.py",
+		"/Users/valentinesvensson/Downloads/graylog2-web-interface-0.9.6/config/mongoid.yml",
+		"/Volumes/Biologin/config/post_process.yaml",
+		"/Volumes/Biologin/config/post_process-test.yaml",
+		"/Users/valentinesvensson/Documents/logstash/sizelog_trimmed.json",
+		"/Users/valentinesvensson/Documents/logstash/apache-parse.conf",
+		"/Users/valentinesvensson/Documents/logstash/sizes.conf",
+		"/Users/valentinesvensson/Documents/scilifelab/scripts/datasets.py",
+		"/Users/valentinesvensson/.ssh/config",
+		"/Volumes/Biologin/bcbb/nextgen/bcbio/pipeline/qcsummary.py",
+		"/Volumes/Biologin/config/tool-data/sam_fa_indices.loc",
+		"/Volumes/Biologin/config/tool-data/bowtie_indices.loc",
+		"/Volumes/Biologin/bcbb/nextgen/bcbio/pipeline/demultiplex.py",
+		"/Users/valentinesvensson/Dropbox/Grassmannians/Text/Grassmannian section/GTsection.tex",
+		"/Volumes/Biologin/bcbb/nextgen/bcbio/broad/__init__.py",
+		"/Volumes/Biologin/bcbb/nextgen/bcbio/distributed/manage.py",
+		"/Volumes/Biologin/bcbb/nextgen/bcbio/pipeline/transfer.py",
+		"/Volumes/Biologin/bcbb/nextgen/bcbio/pipeline/toplevel.py",
+		"/Volumes/Biologin/bcbb/nextgen/scripts/nextgen_analysis_server.py",
+		"/Volumes/Biologin/bcbb/nextgen/scripts/distributed_nextgen_pipeline.py",
+		"/Volumes/Biologin/bcbb/nextgen/bcbio/pipeline/run_info.py",
+		"/Volumes/Biologin/run_info.yaml",
+		"/Volumes/Biologin/bcbb/nextgen/scripts/automated_initial_analysis.py",
+		"/Volumes/Biologin/bcbb/nextgen/bcbio/google/bc_metrics.py",
+		"/Volumes/Biologin/bcbb/nextgen/bcbio/pipeline/flowcell.py",
+		"/Users/valentinesvensson/Documents/logstash/hello.conf",
+		"/Users/valentinesvensson/Documents/logstash/mylogstash.conf",
+		"/Users/valentinesvensson/Documents/logstash/datasets_sizes_trimmed.log",
+		"/Users/valentinesvensson/Documents/logstash/datasets_sizes.log",
+		"/etc/amon.conf",
+		"/Users/valentinesvensson/Documents/splitting-files/generate_test_data.py",
+		"/Volumes/Biologin/bcbb/nextgen/bcbio/pipeline/lane.py",
+		"/Volumes/Biologin/bcbb/nextgen/tests/1_110106_FC70BUKAAXX_barcode/1_110106_FC70BUKAAXX_bc.metrics",
+		"/Volumes/Biologin/bcbb/nextgen/tests/nosetest_job.out",
+		"/Volumes/Biologin/bcbb/nextgen/tests/nosetest_job.err",
+		"/Volumes/Biologin/bcbb/nextgen/scripts/barcode_sort_trim.py",
+		"/Volumes/Biologin/bcbb/nextgen/tests/test_automated_analysis.py",
+		"/Volumes/Biologin/bcbb/nextgen/scripts/count_barcode_demultiplex_bcbb_wrapper.py",
+		"/Volumes/Biologin/bcbb/nextgen/scripts/count_barcode_demultiplex.py",
+		"/Users/valentinesvensson/Documents/111028_SN1018_0031_AC06MVACXX_test_data/8_111028_AC06MVACXX_1_random_sample_10.0_fastq_barcodes.yaml",
+		"/Users/valentinesvensson/Documents/splitting-files/numbers.txt",
+		"/Users/valentinesvensson/Documents/bcbb/nextgen/scripts/google.com",
+		"/Volumes/Biologin/bcbb/nextgen/bcbio/google/__init__.py",
+		"/Volumes/Biologin/bcbb/nextgen/tests/test_gdocs_upload.py",
+		"/Volumes/Biologin/bcbb/nextgen/tests/data/automated/post_process.yaml",
+		"/Volumes/Biologin/bcbb/nextgen/bcbio/broad/picardrun.py",
+		"/Volumes/Biologin/bcbb/nextgen/bcbio/pipeline/sample.py",
+		"/Volumes/Biologin/bcbb/nextgen/bcbio/log/__init__.py",
+		"/Volumes/Biologin/bcbb/nextgen/bcbio/distributed/multitasks.py",
+		"/Volumes/Biologin/bcbb/nextgen/bcbio/distributed/tasks.py",
+		"/Volumes/Biologin/bcbb/nextgen/bcbio/distributed/messaging.py",
+		"/Volumes/Biologin/bcbb/nextgen/bcbio/pipeline/fastq.py",
+		"/Volumes/Biologin/bcbb/nextgen/scripts/count_barcodes.py",
+		"/Volumes/Biologin/bcbb/nextgen/bcbio/pipeline/alignment.py",
+		"/Volumes/Biologin/bcbb/nextgen/setup.py",
+		"/Volumes/Biologin/bcbb/nextgen/scripts/illumina_finished_msg.py",
+		"/Volumes/Biologin/bcbb/nextgen/bcbio/ngsalign/tophat.py",
+		"/Volumes/Biologin/bcbb/nextgen/tests/nosetests_run.sh",
+		"/Volumes/B5/Ibis_1.1.6/createTrainingSeqs.py",
+		"/Users/valentinesvensson/.gitconfig",
+		"/Volumes/Biologin/bcbb/.gitconfig",
+		"/Volumes/Biologin/bcbb/nextgen/config/post_process.yaml",
+		"/Volumes/Biologin/bcbb/nextgen/bcbio/pipeline/variation.py",
+		"/Volumes/Biologin/scratch/scripts/1370183/make_random_test_fastq.py",
+		"/Volumes/Biologin/scratch/scripts/1358028/plot_the_percentages.py",
+		"/Volumes/Biologin/scratch/111028_SN1018_0031_AC06MVACXX/8_111028_AC06MVACXX_1_random_sample_10.0_fastq_barcodes.yaml",
+		"/Volumes/Biologin/scratch/111028_SN1018_0031_AC06MVACXX/8_111028_AC06MVACXX_1_random_sample_fastq_barcodes.yaml",
+		"/Volumes/Biologin/bcbb/nextgen/bcbio/solexa/__init__.py",
+		"/Volumes/Biologin/bcbb/nextgen/config/run_info.yaml",
+		"/Volumes/Biologin/scratch/111028_SN1018_0031_AC06MVACXX/6_111028_AC06MVACXX_1_fastq_barcodes.yaml",
+		"/Volumes/Biologin/scratch/111028_SN1018_0031_AC06MVACXX/8_111028_AC06MVACXX_1_fastq_barcodes.yaml",
+		"/Volumes/Biologin/bcbb/nextgen/tests/test_automated_output/run_info.yaml",
+		"/Volumes/Biologin/scratch/111028_SN1018_0031_AC06MVACXX/8_result.txt",
+		"/Volumes/Biologin/scratch/111028_SN1018_0031_AC06MVACXX/6_result.txt",
+		"/Volumes/Biologin/bcbb/nextgen/tests/110106_FC70BUKAAXX/run_info.yaml",
+		"/Volumes/Biologin/scratch/fastqs/1_110106_FC70BUKAAXX_1_fastq_barcodes.yaml",
+		"/Volumes/Biologin/bcbb/nextgen/bcbio/bam/counts.py",
+		"/Volumes/Biologin/bcbb/nextgen/tests/test_project_exome_pipeline.py",
+		"/Volumes/Biologin/bcbb/nextgen/bcbio/pipeline/merge.py",
+		"/Volumes/Biologin/bcbb/nextgen/tests/T_exome_pipeline.py",
+		"/Volumes/Biologin/bcbb/nextgen/tests/test_automated_output/post_process.yaml",
+		"/Volumes/Biologin/bcbb/nextgen/scripts/dumped.yaml",
+		"/Volumes/Biologin/scratch/scripts/plot_the_percentages.py",
+		"/Volumes/Biologin/scratch/plot_the_percentages.py",
+		"/Volumes/Biologin/scratch/1_101016_A8023CABXX_2_fastq.txt",
+		"/Volumes/Biologin/bcbb/nextgen/scripts/fastqs/1_110106_FC70BUKAAXX_1_fastq_barcodes.yaml",
+		"/Volumes/Biologin/bcbb/nextgen/README.md",
+		"/Users/valentinesvensson/Desktop/count_barcodes.py",
+		"/Users/valentinesvensson/Library/Application Support/Sublime Text 2/Packages/Default/Global.sublime-settings",
+		"/Volumes/Biologin/bcbb/nextgen/tests/data/110221_empty_FC12345AAXX/3_110221_FC12345AAXX_fastq.txt",
+		"/Volumes/Biologin/bcbb/nextgen/tests/data/samplesheets/illumina_samplesheet.csv",
+		"/Volumes/Biologin/bcbb/nextgen/tests/test_exome_pipeline.py",
+		"/Volumes/Biologin/bcbb/nextgen/scripts/exome_pipeline.py",
+		"/Volumes/Biologin/bcbb/nextgen/tests/data/automated/run_info-empty.yaml",
+		"/Volumes/Biologin/bcbb/nextgen/bcbio/variation/effects.py",
+		"/Volumes/Biologin/bcbb/nextgen/tests/data/automated/run_info-variantcall.yaml",
+		"/Volumes/Biologin/bcbb/nextgen/tests/test_automated_output/2_110106_FC70BUKAAXX_5-sort-dup-gatkrecal-realign-variants-combined.vcf",
+		"/Volumes/Biologin/bcbb/nextgen/tests/test_automated_output/2_110106_FC70BUKAAXX_5-sort-dup-gatkrecal-realign-variants-combined-effects.vcf",
+		"/Volumes/Biologin/bcbb/nextgen/tests/test_automated_output/1_110106_FC70BUKAAXX_5-sort-dup-gatkrecal-realign-variants-combined.vcf",
+		"/Volumes/Biologin/opt/snpEff_v2_0_2/snpEff.config",
+		"/Volumes/Biologin/bcbb/nextgen/scripts/bam_to_wiggle.py",
+		"/Volumes/Biologin/bcbb/nextgen/bcbio/utils.py",
+		"/Volumes/Biologin/bcbb/nextgen/tests/data/automated/run_info.yaml",
+		"/Users/valentinesvensson/Documents/bcbb/nextgen/tests/data/samplesheets/illumina_samplesheet_multiple_projects_per_lane.csv",
+		"/Users/valentinesvensson/Documents/bcbb/nextgen/tests/data/samplesheets/illumina_samplesheet_multiple_projects_per_lane.yaml",
+		"/Volumes/Biologin/bcbb/nextgen/bcbio/solexa/samplesheet.py",
+		"/Users/valentinesvensson/Documents/bcbb/nextgen/tests/data/samplesheets/illumina_samplesheet_multiple_projects_per_lane.",
+		"/Users/valentinesvensson/Documents/bcbb/nextgen/tests/data/samplesheets/illumina_samplesheet_unsorted.yaml",
+		"/Volumes/Biologin/bcbb/nextgen/bcbio/variation/recalibrate.py",
+		"/Users/valentinesvensson/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Volumes/Biologin/bcbb_parallel/nextgen",
+			"/Volumes/Biologin/bcbb/nextgen",
+			"/Volumes/Biologin/bcbb/nextgen/tests",
+			"/Volumes/Biologin/bcbb/nextgen",
+			"/Volumes/Biologin/bcbb/nextgen/bcbio",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".5",
+			"); });",
+			"value",
+			"time",
+			"auto",
+			"virtual",
+			"exchange_declare",
+			"queue_declare",
+			"queue_bin",
+			"routing_",
+			"basic_cons",
+			"queue_decl",
+			"local",
+			"application.pika",
+			"on_pika_message",
+			"basic_consume",
+			"consume",
+			"self.messages",
+			"get_messages",
+			"sample",
+			"on_connect",
+			"channel_open",
+			"self.channel",
+			"connected",
+			"localhost",
+			"durable",
+			"knownSites",
+			"hg19",
+			"trailing",
+			"exists",
+			"process_lane",
+			"print",
+			"run_info",
+			"config",
+			"tcp",
+			"\"Starting manager\"",
+			"distributed_process_program",
+			"pipeline",
+			"process_",
+			"process_lane",
+			"out of ",
+			"bc_metrics",
+			"metrics",
+			"error",
+			"demult",
+			"mouse",
+			"number",
+			".cfg",
+			"cfg",
+			"barcodes",
+			"cfg",
+			"illumina",
+			"not com",
+			"not",
+			"log",
+			"','",
+			"import pdb",
+			"GRCh",
+			"GrCH",
+			"import pdb",
+			"java",
+			"gatk",
+			"MarkDuplicates",
+			"sample_conta",
+			"pdb",
+			"@",
+			"logger",
+			"itertools",
+			"logging",
+			"logginh",
+			"run_parallel",
+			"def run_parallel",
+			"merge_sample",
+			"screen_sample_contaminants",
+			"log.",
+			"','",
+			"log",
+			"FastqGeneralIterator",
+			"re.",
+			"output_to_fastq",
+			"output_to",
+			"option",
+			"save_diskspace",
+			"_out_fnames",
+			"accepted_hits",
+			"os.path.ex",
+			"-h",
+			"knownSites",
+			"finalize_ge",
+			", ",
+			"bc_mism",
+			"class",
+			"TGACCA",
+			"ATCACG",
+			"os.",
+			"_write_",
+			"y",
+			"split_by_barcode",
+			"demultipl",
+			"multiplex",
+			"tag_file",
+			"\"barcode\"",
+			"barcode_sort_trim",
+			"'CGC",
+			"normal",
+			"desc",
+			"check",
+			"yaml.load",
+			"get_fas",
+			"combin",
+			"agatc",
+			"the",
+			"pairwise2",
+			"lane",
+			"out_writer",
+			"output_to",
+			"write_reads",
+			"write_to",
+			"collec",
+			"FastqGeneralIterator",
+			"end_genera",
+			"not in",
+			"_write_to_handles",
+			"FastqGeneral",
+			"out_format",
+			"2.7",
+			"2.6",
+			"store_false"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"', '",
+			"@",
+			"', '",
+			"logger"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/valentinesvensson/Downloads/mikael.asberg@mdh.se - SV: Labrapport - parallel programming (work in progress) 2/waveSim.txt",
+					"settings":
+					{
+						"buffer_size": 1465,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								510,
+								510
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/valentinesvensson/Documents/parallel programming/assignment1/assignment1.md",
+					"settings":
+					{
+						"buffer_size": 523,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								522,
+								522
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "mypi.c",
+					"settings":
+					{
+						"buffer_size": 2224,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"rec",
+				"recieve.py"
+			],
+			[
+				"util",
+				"nextgen/bcbio/utils.py"
+			],
+			[
+				"align",
+				"nextgen/bcbio/pipeline/alignment.py"
+			],
+			[
+				"bar",
+				"nextgen/scripts/barcode_sort_trim.py"
+			],
+			[
+				"dem",
+				"nextgen/bcbio/pipeline/demultiplex.py"
+			],
+			[
+				"plane",
+				"nextgen/bcbio/pipeline/lane.py"
+			],
+			[
+				"distr",
+				"nextgen/bcbio/distributed/multitasks.py"
+			],
+			[
+				"autom",
+				"nextgen/scripts/automated_initial_analysis.py"
+			],
+			[
+				"bc_",
+				"nextgen/bcbio/google/bc_metrics.py"
+			],
+			[
+				"__",
+				"nextgen/bcbio/broad/__init__.py"
+			],
+			[
+				"qc",
+				"nextgen/bcbio/pipeline/qcsummary.py"
+			],
+			[
+				"bc",
+				"nextgen/bcbio/google/bc_metrics.py"
+			],
+			[
+				"flow",
+				"nextgen/bcbio/pipeline/flowcell.py"
+			],
+			[
+				"flo",
+				"nextgen/bcbio/pipeline/flowcell.py"
+			],
+			[
+				"mana",
+				"nextgen/bcbio/distributed/manage.py"
+			],
+			[
+				"transf",
+				"nextgen/bcbio/pipeline/transfer.py"
+			],
+			[
+				"topl",
+				"nextgen/bcbio/pipeline/toplevel.py"
+			],
+			[
+				"nex",
+				"nextgen/scripts/nextgen_analysis_server.py"
+			],
+			[
+				"di",
+				"nextgen/scripts/distributed_nextgen_pipeline.py"
+			],
+			[
+				"ru",
+				"nextgen/bcbio/pipeline/run_info.py"
+			],
+			[
+				"lane",
+				"nextgen/bcbio/pipeline/lane.py"
+			],
+			[
+				"bc_metric",
+				"nextgen/tests/1_110106_FC70BUKAAXX_barcode/1_110106_FC70BUKAAXX_bc.metrics"
+			],
+			[
+				"nose",
+				"nextgen/tests/nosetest_job.err"
+			],
+			[
+				"trim",
+				"nextgen/scripts/barcode_sort_trim.py"
+			],
+			[
+				"automate",
+				"nextgen/tests/test_automated_analysis.py"
+			],
+			[
+				".err",
+				"nextgen/tests/nosetest_job.err"
+			],
+			[
+				"coun",
+				"nextgen/scripts/count_barcode_demultiplex_bcbb_wrapper.py"
+			],
+			[
+				"test",
+				"nextgen/tests/test_automated_analysis.py"
+			],
+			[
+				"aut",
+				"nextgen/scripts/automated_initial_analysis.py"
+			],
+			[
+				"google",
+				"nextgen/bcbio/google/__init__.py"
+			],
+			[
+				"gc",
+				"nextgen/bcbio/google/bc_metrics.py"
+			],
+			[
+				"post_",
+				"nextgen/tests/data/automated/post_process.yaml"
+			],
+			[
+				"pic",
+				"nextgen/bcbio/broad/picardrun.py"
+			],
+			[
+				"post",
+				"nextgen/tests/data/automated/post_process.yaml"
+			],
+			[
+				"mul",
+				"nextgen/bcbio/distributed/multitasks.py"
+			],
+			[
+				"tas",
+				"nextgen/bcbio/distributed/tasks.py"
+			],
+			[
+				"mess",
+				"nextgen/bcbio/distributed/messaging.py"
+			],
+			[
+				"sam",
+				"nextgen/bcbio/pipeline/sample.py"
+			],
+			[
+				"test_",
+				"nextgen/tests/test_automated_analysis.py"
+			],
+			[
+				"tran",
+				"nextgen/bcbio/pipeline/transfer.py"
+			],
+			[
+				"barc",
+				"nextgen/scripts/barcode_sort_trim.py"
+			],
+			[
+				"count",
+				"nextgen/scripts/count_barcodes.py"
+			],
+			[
+				"setu",
+				"nextgen/setup.py"
+			],
+			[
+				"ill",
+				"nextgen/scripts/illumina_finished_msg.py"
+			],
+			[
+				"top",
+				"nextgen/bcbio/ngsalign/tophat.py"
+			],
+			[
+				"",
+				"nextgen/tests/data/automated/post_process.yaml"
+			],
+			[
+				"sample",
+				"nextgen/bcbio/pipeline/sample.py"
+			],
+			[
+				"test_autom",
+				"nextgen/tests/test_automated_analysis.py"
+			],
+			[
+				"test_aut",
+				"nextgen/tests/test_automated_analysis.py"
+			],
+			[
+				"varia",
+				"nextgen/bcbio/pipeline/variation.py"
+			],
+			[
+				"next",
+				"nextgen/scripts/nextgen_analysis_server.py"
+			],
+			[
+				"run",
+				"nextgen/tests/test_automated_output/run_info.yaml"
+			],
+			[
+				"run_info",
+				"nextgen/bcbio/pipeline/run_info.py"
+			],
+			[
+				"run_",
+				"nextgen/tests/test_automated_output/run_info.yaml"
+			],
+			[
+				"sort",
+				"nextgen/scripts/barcode_sort_trim.py"
+			],
+			[
+				"barcode",
+				"nextgen/scripts/barcode_sort_trim.py"
+			],
+			[
+				"init",
+				"nextgen/bcbio/solexa/__init__.py"
+			],
+			[
+				"set",
+				"nextgen/setup.py"
+			],
+			[
+				"test_pr",
+				"nextgen/tests/test_project_exome_pipeline.py"
+			],
+			[
+				"test_gdo",
+				"nextgen/tests/test_gdocs_upload.py"
+			],
+			[
+				"_ex",
+				"nextgen/tests/T_exome_pipeline.py"
+			],
+			[
+				"merg",
+				"nextgen/bcbio/pipeline/merge.py"
+			],
+			[
+				"sampl",
+				"nextgen/bcbio/pipeline/sample.py"
+			],
+			[
+				"po",
+				"nextgen/tests/data/automated/post_process.yaml"
+			],
+			[
+				"rea",
+				"README.md"
+			],
+			[
+				"dump",
+				"scripts/dumped.yaml"
+			],
+			[
+				"automa",
+				"scripts/automated_initial_analysis.py"
+			],
+			[
+				"auto",
+				"scripts/automated_initial_analysis.py"
+			],
+			[
+				"eet.",
+				"tests/data/samplesheets/illumina_samplesheet.csv"
+			],
+			[
+				"merge",
+				"bcbio/pipeline/merge.py"
+			],
+			[
+				"fastq",
+				"bcbio/pipeline/fastq.py"
+			],
+			[
+				"ex",
+				"scripts/exome_pipeline.py"
+			],
+			[
+				"toph",
+				"bcbio/ngsalign/tophat.py"
+			],
+			[
+				"call.",
+				"tests/data/automated/run_info-variantcall.yaml"
+			],
+			[
+				"2_110106_fc70bukaaxx_5-sort-dup-gatkrecal-realign-variants-combined.vcf",
+				"tests/test_automated_output/2_110106_FC70BUKAAXX_5-sort-dup-gatkrecal-realign-variants-combined.vcf"
+			],
+			[
+				"fc70bukaxx_5-sort-variants-combined.vcf",
+				"tests/test_automated_output/1_110106_FC70BUKAAXX_5-sort-dup-gatkrecal-realign-variants-combined.vcf"
+			],
+			[
+				"effe",
+				"bcbio/variation/effects.py"
+			],
+			[
+				"vari",
+				"bcbio/pipeline/variation.py"
+			],
+			[
+				"bam_",
+				"scripts/bam_to_wiggle.py"
+			],
+			[
+				"sa",
+				"bcbio/solexa/samplesheet.py"
+			],
+			[
+				"exom",
+				"scripts/exome_pipeline.py"
+			],
+			[
+				"ut",
+				"bcbio/utils.py"
+			],
+			[
+				"test_ex",
+				"tests/test_exome_pipeline.py"
+			],
+			[
+				"utils",
+				"bcbio/utils.py"
+			],
+			[
+				"autoi",
+				"scripts/automated_initial_analysis.py"
+			],
+			[
+				"ini",
+				"scripts/automated_initial_analysis.py"
+			],
+			[
+				"fast",
+				"bcbio/pipeline/fastq.py"
+			],
+			[
+				"tes",
+				"tests/test_automated_analysis.py"
+			],
+			[
+				"test_tr",
+				"tests/test_transfer.py"
+			],
+			[
+				".yaml",
+				"tests/data/automated/post_process.yaml"
+			],
+			[
+				"proj_",
+				"tests/templates/proj_conf.yaml"
+			],
+			[
+				"lan",
+				"bcbio/pipeline/lane.py"
+			],
+			[
+				"mer",
+				"bcbio/pipeline/merge.py"
+			],
+			[
+				"fas",
+				"bcbio/pipeline/fastq.py"
+			],
+			[
+				"2_",
+				"tests/110106_FC70BUKAAXX/2_110106_FC70BUKAAXX_1_fastq.txt"
+			],
+			[
+				"se",
+				"tests/test_SequencingDump.py"
+			],
+			[
+				"_pp",
+				"tests/test_pipeline.py"
+			],
+			[
+				"sample_",
+				"scripts/sample_delivery.py"
+			],
+			[
+				"load",
+				"tests/test_config_loader.py"
+			],
+			[
+				"task",
+				"bcbio/distributed/tasks.py"
+			],
+			[
+				"mes",
+				"bcbio/distributed/messaging.py"
+			],
+			[
+				"broad",
+				"scripts/utils/broad_redo_analysis.py"
+			],
+			[
+				"ali",
+				"bcbio/pipeline/alignment.py"
+			],
+			[
+				"initial",
+				"scripts/automated_initial_analysis.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 209.0,
+	"status_bar_visible": true
+}

@@ -63,8 +63,11 @@ func.o: func.cc wave.h
 leapfrog.o: leapfrog.cc wave.h
 	$(CPP) $(FLAGS) -c  leapfrog.cc
 
+quicksort: quicksort.c 
+	$(CC) $(FLAGS) -o quicksort quicksort.c $(LIBS)
+
 clean:
 	rm -f *.o *~ wave gram1 gram2 gram3 helloworld hello2 data \
-	mutex join enumsort enum1 enum2 synch spinwait pi matmul
+	mutex join enumsort enum1 enum2 synch spinwait pi matmul quicksort
 
 
