@@ -17,24 +17,15 @@ int main(int argc, char *argv[]) {
     A[i]=(double)i;
   }
 
+  sum=0.0;
 
-  globsum=0.0;
-#pragma omp parallel private(sum)
-  {
-    sum=0.0;
-
-#pragma omp for
+#pragma omp parallel for reduction(+:sum)
     for (i = 0; i < n ; i++) { 
-      sum += A[i];
+      sum = sum + A[i];
     }
 
-#pragma omp critical
-    {
-      globsum+=sum;
-    }
-  }
 
-  printf("Global sum is: %f\n",  globsum);
+  printf("Global sum is: %f\n",  sum);
 
   return 0;
 }

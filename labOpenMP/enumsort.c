@@ -28,13 +28,24 @@ int main(int argc, char *argv[]) {
 
   /* Enumeration sort */
   wtime=omp_get_wtime();
+  
+omp_set_nested(1);
+#pragma omp parallel for private(rank, i) num_threads(4)
   for (j=0;j<len;j++)
     {
       rank=0;
+
+#pragma omp parallel for reduction(+:rank) num_threads(2)
       for (i=0;i<len;i++)
-	if (indata[i]<indata[j]) rank++;
+      {
+			if (indata[i]<indata[j]) 
+			{
+				rank++;
+			}
+		}
+     
       outdata[rank]=indata[j];
-    }
+   }
   wtime=omp_get_wtime()-wtime;
   printf("Time: %f sec \n",wtime);
 
